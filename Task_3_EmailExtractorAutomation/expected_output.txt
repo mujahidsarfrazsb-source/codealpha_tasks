@@ -1,0 +1,6 @@
+services@codealpha.tech
+services.codealpha@gmail.com
+hr@example.com
+support@example.org
+developer.team+python@example.co.uk
+training.department@example.net

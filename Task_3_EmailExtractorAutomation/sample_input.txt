@@ -1,0 +1,15 @@
+CodeAlpha Python Programming Internship
+
+For internship-related questions, contact services@codealpha.tech
+or services.codealpha@gmail.com.
+
+Sample business contacts:
+hr@example.com
+support@example.org
+developer.team+python@example.co.uk
+training.department@example.net
+
+Repeated email:
+services@codealpha.tech
+
+Normal website text such as www.example.com is not an email address.
