@@ -70,33 +70,6 @@ Create the repository with this exact style:
 
 `CodeAlpha_StockPortfolioTracker`
 
-## Push to GitHub
-
-After creating an empty repository on GitHub, open a terminal in this project folder and run:
-
-```bash
-git init
-git add .
-git commit -m "Complete CodeAlpha Stock Portfolio Tracker"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/CodeAlpha_StockPortfolioTracker.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username.
-
-## Suggested LinkedIn Video Explanation
-
-In your short demo video, explain:
-
-1. This is Task 2 of the CodeAlpha Python Programming Internship.
-2. Stock prices are stored in a Python dictionary.
-3. The user enters a stock symbol and quantity.
-4. The program calculates each stock's investment value.
-5. It calculates the total portfolio value.
-6. The user can save the summary to a CSV file.
-7. Show the GitHub repository at the end.
-
 ## Author
 
 Created as part of the CodeAlpha Python Programming Internship.
